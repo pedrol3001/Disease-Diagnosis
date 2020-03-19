@@ -1,0 +1,64 @@
+
+febre2($ans)
+    Qual intensidade da febre?
+    --- 
+    $ans = integer(0-3)
+
+
+manchas2($ans)
+    Qual frequencia de manchas na pele?
+    ---
+    $ans = integer(0-3)
+	
+dorMuscular($ans)
+    Com que frequencia ocorrem dores musculares?
+    ---
+    $ans = integer(0-3)
+	
+dorArticular2($ans)
+    Qual a intensidade e frequencia/intensidade das dores articulares?
+    ---
+    $ans = integer(0-3)
+
+
+edemaArticulacao2($ans)
+    Qual intensidade dos edemas da articulacao?
+    ---
+	$ans = integer(0-3)
+ 
+conjuntivite($ans)
+    Apresenta conjuntivite?
+    ---
+    $ans = yn
+	
+
+dordecabeca2($ans)
+    Qual a intensidade/frequencia das dores de cabeca?
+    ---
+   $ans = integer(0-3)	
+	
+
+coceira2($ans)
+    Qual intensidade da coceira?
+    ---
+    $ans = integer(0-3)		
+
+hipertrofiaGanglionar($ans)
+    Qual intensidade de hipertrofias ganglionares?
+    ---
+    $ans = integer(0-3)
+
+
+discrasiaHemorragica($ans)
+    Com que frequencia aparecem discrasias hemorragicas?
+    ---
+    $ans = integer(0-3)
+	
+acrometimentoNeurologico($ans)
+    Apresenta acormetimento neurologico?
+    ---
+    $ans = yn
+	
+
+
+		
