@@ -1,8 +1,3 @@
-Pedro Luis Chaves Rocha 
-18/0054635
-
-Trabhlo2 IIA 2019.2
-
 Arquivos do pyke na pasta exprtSystem
 
 Rodar a partir da main
