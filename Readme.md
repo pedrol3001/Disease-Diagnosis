@@ -1,20 +1,14 @@
 # Disease Diagnosis with Pyke
 
-Arquivos do pyke na pasta exprtSystem.
+Pyke files in exprtSystem folder.
 
-Rodar a partir da main.
+Questions are in questions.kqb file.
 
-As perguntars estão no questions.kqb e as regras no rules.krb.
+Rules are in rules.krb file.
 
-Os codigos do pike pre compilados estão no zip, caso queira recompilar, só apagar a pasta compiled_krb e executar a main normalmente.
+Dependencies:
 
-O programa apresenta pesos para cada sintoma como um esquema de pontuação e ao dividiro pelo total, no final se tem uma probabilidade de cada doença
-
-Para rodar execute.
-
-Dependências:
-
-    Biblioteca PYKE - Utilizada para gerênciar o sistema expecialista.
+    Biblioteca PYKE - Used to manage the expert system.
 
 Run:
 
